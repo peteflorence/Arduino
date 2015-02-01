@@ -3,6 +3,9 @@
 //translation of letters into morse code taken from international morse code
 //conventions
 
+
+// this will be Varun's first program!  excited to get back to this soon with the # 1 roommate.
+
 #include <std.io>
 
 
